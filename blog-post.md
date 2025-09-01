@@ -27,6 +27,7 @@ Read the full blog post [here](./blog-post.md).
 Semantic HTML helps developers create web pages that are meaningful to both *search engines* and *assistive technologies*.  
 This article explains how to implement semantic HTML step by step.
 
+
 ---
 
 ## 1. What is Semantic HTML?
@@ -62,3 +63,4 @@ Non-semantic tags like <div> and <span> don’t explain content purpose.
   <div>Article content goes here</div>
   <div>Footer info</div>
 </div>
+ Full code examples: https://github.com/<mercy-Nyakio>/semantic-html-seo
